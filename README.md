@@ -1,4 +1,5 @@
 # My-first-SQL-querry
+Writing my first of my SQL querry
 # Overview
 - In this scenario, you have to determine which employee devices must be updated. You also need to investigate user login activity to explore if any unusual activity has occurred.
 # Data
