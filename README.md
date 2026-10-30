@@ -4,7 +4,7 @@
 # Data
 - The information you need is located in the machines and login_attempts tables in the organization database.
 # Task 1. Retrieve employee device data: In this task, you need to obtain information on employee devices because your team needs to update them. The information you need is in the machines table in the organization database.
-SELECT *
+- SELECT *
 FROM machines;
 
 # Run the following query to select only the device_id and email_client columns from the machines table.
